@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.oci.presensi"
+    namespace = "com.mhmdnurulkarim.presensi"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.oci.presensi"
+        applicationId = "com.mhmdnurulkarim.presensi"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

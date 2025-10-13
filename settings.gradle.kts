@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Presensi"
+rootProject.name = "Attendly"
 include(":app")
